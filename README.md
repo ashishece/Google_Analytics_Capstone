@@ -7,4 +7,4 @@ Cyclistic is a fictional bike sharing program which features more than 5,800 bik
 
 ## 📁 Files
 - [**FinalAnalysis.R**]([https://github.com/ashishece/Google_Analytics_Capstone/blob/main/FinalAnalysis.R]) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
-- [**FinalAnalysisTableau.R**](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysisTableau.R) - create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau.
+- [**FinalAnalysisTableau.R**]([https://github.com/ashishece/Google_Analytics_Capstone/blob/main/FinalAnalysisTableau.R]) - create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau.
